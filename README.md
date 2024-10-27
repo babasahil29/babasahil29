@@ -9,9 +9,10 @@ I'm a Computer Science student currently pursuing a B.Tech degree. I specialize 
 - **Tools & Technologies:** Git, Microsoft Azure, ChatGPT Prompting
 - **Data Structures & Algorithms:** Strong understanding of common algorithms and data structures
 
-### 📚 Projects
-- **Fitness App Development:** Developed a fitness tracking app using React.js, Node.js, Express.js, and MongoDB. [Check it out here](#) *(replace with link)*
-- **RideEase Website:** Built a cab booking platform with HTML, CSS, and JavaScript, improving user engagement by 30%. [Check it out here](https://babasahil29.github.io/RideEase/index.html)
+###📚 Projects
+FastPrepSahil: A comprehensive platform for last-minute coding preparation, featuring cheat sheets, overviews, and top interview questions for various programming languages. Check it out here
+Fitness App Development: Developed a fitness tracking app using React.js, Node.js, Express.js, and MongoDB. Check it out here (replace with link)
+RideEase Website: Built a cab booking platform with HTML, CSS, and JavaScript, improving user engagement by 30%. Check it out here
 
 ### 🎓 Education
 - **B.Tech in Computer Science** | Anantha Lakshmi Institute of Technology and Sciences
@@ -34,6 +35,10 @@ Currently diving deeper into AI and machine learning, with a focus on neural net
 ### ⚡ Fun Fact
 I’m a chess enthusiast and love solving complex problems both on the board and in code!
 
----
+###🌟 Internships
+InnoByte Services: Web Design Developer Intern, where I contributed to designing and developing user-friendly websites, enhancing overall user experience.
+IIDT BlackBuck: Full Stack Developer Intern, where I worked on both front-end and back-end development, gaining hands-on experience with various technologies and frameworks.
+
+
 
 *Let's build something amazing together!*
